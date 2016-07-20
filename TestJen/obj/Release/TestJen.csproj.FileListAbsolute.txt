@@ -1,0 +1,6 @@
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\bin\TestJen.dll.config
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\bin\TestJen.dll
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\bin\TestJen.pdb
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\obj\Release\TestJen.csprojResolveAssemblyReference.cache
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\obj\Release\TestJen.dll
+C:\Users\jafarkhan.sahib\Documents\Test\TestJen\obj\Release\TestJen.pdb

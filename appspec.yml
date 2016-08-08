@@ -3,11 +3,3 @@ os: windows
 files:
   - source: /TestJen
     destination: C:\DeployedProjects
-hooks:
-  BeforeInstall:
-  
-  AfterInstall:
-    
-  ApplicationStart:
-
-  ValidateService:

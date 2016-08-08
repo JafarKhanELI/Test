@@ -5,8 +5,6 @@ second commit
 asdf
 
 Testing from git
-
-
 123
 adsf
 afdasfasdf

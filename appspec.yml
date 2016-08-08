@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-    - source: /TestJen
+  - source: /TestJen
     destination: C:\DeployedProjects
 hooks:
   BeforeInstall:

@@ -1,5 +1,6 @@
 Commit from dev
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit from qa
 =======
 asdf
@@ -7,3 +8,8 @@ asdf
 
 
 merge
+=======
+asdf
+
+update from dev
+>>>>>>> Dev

@@ -1,13 +1,1 @@
-First commit.
-
-second commit
-
-asdf
-
-Testing from git
-123
-adsf
-afdasfasdf
-adf
-163
-25
+Commit from dev
